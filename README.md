@@ -13,7 +13,7 @@ It takes the attendance in any format and converts it into
 txt format where it converts it finally to list.
 It goes through all the name in the list with the provided
 class list and at last gives the names that do not match i.e.
-The absentees and then it uses sql to append the
+The absentees and then it uses csv to append the
 attendance in csv as +1 for present and +0 for absent.
 
 #Hardware Requirements
